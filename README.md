@@ -38,14 +38,15 @@ game_log.txt # auto-generated gameplay log after running
 
 #### 4.1 Main Game Loop
 
+```text
 Initialize game
 │
 ├─ For each year:
-│ ├─ For each week (52):
-│ │ ├─ Display tower
-│ │ ├─ Player takes 7 actions
-│ │ └─ Settle weekly finances
-│ └─ End-of-year summary + capital carry-over
+│   ├─ For each week (52):
+│   │   ├─ Display tower
+│   │   ├─ Player takes 7 actions
+│   │   └─ Settle weekly finances
+│   └─ End-of-year summary + capital carry-over
 │
 └─ Repeat or exit
 
@@ -53,4 +54,5 @@ Initialize game
 
 - Gameplay log auto-saves to `game_log.txt`
 - You may quit anytime using `q`
+
 
