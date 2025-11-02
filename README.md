@@ -53,3 +53,4 @@ Initialize game
 
 - Gameplay log auto-saves to `game_log.txt`
 - You may quit anytime using `q`
+
