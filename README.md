@@ -49,10 +49,12 @@ Initialize game
 │   └─ End-of-year summary + capital carry-over
 │
 └─ Repeat or exit
+```
 
 #### 4.2 Notes
 
 - Gameplay log auto-saves to `game_log.txt`
 - You may quit anytime using `q`
+
 
 
